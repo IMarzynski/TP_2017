@@ -1,20 +1,10 @@
 # TP_2017
 
-## Tworzymy własny projekt
+## Projekt Winda - Igor Marzyński Jakub Romankiewicz
 
-* Zaczynamy od zrobienia forka głównego projektu
-* Każdy projekt powinien zostać umieszczony w osobnym folderze nazwaFolderu_ID (ID zostanie przydzielone do kazdej grupy projektowej)
-* Po zakończeniu projektu robimy Pull Request do brancha develop
+* Winda przewozi odpowiednio ludzi na każde z 4 pięter, wyświetla wage pasazerow w windzie
+* Program wykonany w VS 2015
 
-## Co folder projektowy musi posiadać
+## Uruchomienie programu
 
-* Źródła programu (C, C++)
-* Dokumentację (README.md) - kilka zdań na temat samego projektu + opis jak zbudować kod
-
-## Uwaga 
-* Nie umieszczamy w repozyterium plikow binarnych! 
-
-## Linki
-
-* Kurs dotyczący GIT - https://www.atlassian.com/git/tutorials 
-
+* Uruchhomienie w Visual Studio poprzez Debug
